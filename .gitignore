@@ -1,0 +1,5 @@
+.idea/*
+__pycache__/*
+crawler_data/*
+db_client/*
+AI_config.py
