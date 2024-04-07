@@ -1,4 +1,7 @@
 # 똑똑한 파이언월드 챗봇
+## 프로젝트 구조
+<img src="img.png" style="width:600px;">
+
 ## 프로젝트 초기화하기
 1. 공유 드라이브에서 <u>`AI_config.py` 파일</u>을 <u>다운로드</u> 받아서 toy4 루트에 저장. [파일 링크](https://drive.google.com/file/d/1UAStfzIr1xAdKiVvdcf_CsyR6RZNHxQb/view?usp=drive_link)
 2. 터미널에서 `init.sh` 스크립트 실행.
